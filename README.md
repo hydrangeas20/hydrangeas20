@@ -12,7 +12,7 @@ I'm Hamda! I’m passionate about data science and cybersecurity, with a robust 
 
 I’m passionate about learning new things. Here are the categories where I’ve created some exciting projects: 
 
-![FOR_SHOPPING_WITH_US-removebg-preview](https://github.com/user-attachments/assets/212dd748-2275-4ef4-8e37-ae36e334e970)
+![PROJECT-CARDS-HYDRANGEAS20](https://github.com/user-attachments/assets/212dd748-2275-4ef4-8e37-ae36e334e970)
 
 
 
