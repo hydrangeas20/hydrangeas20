@@ -10,7 +10,13 @@ I'm Hamda! I’m passionate about data science and cybersecurity, with a robust 
 
 
 
-Here’s a glimpse into the exciting projects I’ve been working on. Each project highlights my passion for solving complex problems and leveraging technology to drive impactful results. Explore the images below to see how I’ve applied my skills across various domains.
+I’m passionate about learning new things. Here are the categories where I’ve created some exciting projects: 
+
+![FOR_SHOPPING_WITH_US-removebg-preview](https://github.com/user-attachments/assets/212dd748-2275-4ef4-8e37-ae36e334e970)
+
+
+
+Each project highlights my passion for solving complex problems and leveraging technology to drive impactful results. Explore my public repositories to see how I’ve applied my skills across various domains.
 
 
 
