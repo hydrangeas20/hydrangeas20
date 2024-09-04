@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there! 👋
 I'm Hamda! I’m passionate about data science and cybersecurity, with a robust background in both fields. I’ve tackled exciting projects like real-time data analytics, machine learning-based fraud detection, and developing security models. My skills span across advanced threat modeling, vulnerability assessments, and cloud technologies, with certifications in AWS and Azure. I thrive on solving complex problems and exploring innovative solutions. If you're interested in discussing data, security, or technology, I’d love to connect and share ideas!
 
 <b>Languages & Frameworks:</b> 🐍 Python, ☕ Java, 💻 JavaScript, ⚛️ React, 🌐 Node.js, 📦 Django, 🔗 REST API 
