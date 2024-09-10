@@ -12,7 +12,7 @@ I'm Hamda! I’m passionate about data science, software engineering, and cybers
 
 I’m passionate about learning new things. Here are the categories where I’ve created some exciting projects: 
 
-![PROJECT-CARDS-HYDRANGEAS20](https://github.com/user-attachments/assets/212dd748-2275-4ef4-8e37-ae36e334e970)
+<img width="650" alt="Screenshot 2024-09-10 at 9 53 55 AM" src="https://github.com/user-attachments/assets/280e8310-619c-449b-ab82-181b7aee5726">
 
 
 
