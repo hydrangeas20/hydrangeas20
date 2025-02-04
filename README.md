@@ -11,8 +11,9 @@ I'm Hamda! I’m passionate about data science, software engineering, and cybers
 
 
 I’m passionate about learning new things. Here are the categories where I’ve created some exciting projects: 
+![hamda-github-icons](https://github.com/user-attachments/assets/5a48cfd6-7c71-4ab5-8919-c9e15492eee0)
 
-<img width="650" alt="Screenshot 2024-09-10 at 9 53 55 AM" src="https://github.com/user-attachments/assets/280e8310-619c-449b-ab82-181b7aee5726">
+
 
 
 
