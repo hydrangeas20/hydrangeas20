@@ -5,7 +5,7 @@ I'm Hamda! I’m passionate about data science, software engineering, and cybers
 
 <b>Big Data & ML:</b> 🌪️ Airflow, 🗣️ Kafka, 🧩 Spark, 🚀 Flink, 📊 Databricks, 📂 Hive, 🗄️ Cassandra, 🧠 TensorFlow, 🔍 PyTorch
 
-<b>Tools & Technologies: </b> 📊 Power BI, 📈 Tableau, 🔍 Splunk, 🛡️ YARA, ☁️🌐 AWS, ☁️🖥️ Azure, ☁️📊 Google Cloud Platform, 🐳 Docker, 🔔 Grafana, ⚓️ Kubernetes,
+<b>Tools & Technologies: </b> 📊 Power BI, 📈 Tableau, 🔍 Splunk, 🛡️ YARA, ☁️🌐 AWS, ☁️🖥️ Azure, ☁️📊 Google Cloud Platform, 🐳 Docker, 🔔 Grafana, ⚓️ Kubernetes
 
 
 
