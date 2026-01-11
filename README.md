@@ -1,11 +1,17 @@
 ## Hi there! 👋
-I'm Hamda! I’m passionate about data science, software engineering, and cybersecurity, and I have a robust background in these fields. I’ve tackled exciting projects like real-time data analytics, machine learning-based fraud detection, and developing security models. My skills span across machine learning, data and software engineering, with certifications in AWS. I thrive on solving complex problems and exploring innovative solutions. If you're interested in discussing data, security, technology, or software engineering, I’d love to connect and share ideas!
 
-<b>Languages & Frameworks:</b> 🐍 Python, ☕ Java, 💻 JavaScript, ⚛️ React, 🌐 Node.js, 📦 Django, 🔗 REST API 
+I'm Hamda! I’m passionate about data science, software engineering, and cybersecurity. I’ve built projects such as reproducible ML pipelines (DVC + MLflow), machine learning-based fraud detection, and a Document Intelligence RAG system with performance optimization. My skills span machine learning, data engineering, and software engineering, supported by AWS certifications. I enjoy solving complex problems and building reliable systems end-to-end.
 
-<b>Big Data & ML:</b> 🌪️ Airflow, 🗣️ Kafka, 🧩 Spark, 🚀 Flink, 📊 Databricks, 📂 Hive, 🗄️ Cassandra, 🧠 TensorFlow, 🔍 PyTorch
+If you're interested in discussing data, ML systems, security, or software engineering, I’d love to connect and share ideas!
 
-<b>Tools & Technologies: </b> 📊 Power BI, 📈 Tableau, 🔍 Splunk, 🛡️ YARA, ☁️🌐 AWS, 🐳 Docker, 🔔 Grafana, ⚓️ Kubernetes
+<b>Languages & Frameworks:</b> 🐍 Python, ☕ Java, 💻 JavaScript, ⚛️ React, 🌐 Node.js, 📦 Django, 🔗 REST APIs  
+
+<b>Big Data & ML:</b> 🌪️ Airflow, 🗣️ Kafka, 🧩 Spark, 🚀 Flink, 📊 Databricks, 📂 Hive, 🗄️ Cassandra, 🧠 TensorFlow, 🔍 PyTorch  
+
+<b>MLOps & Experiment Tracking:</b> 📈 MLflow, 🐶 DagsHub, 🧾 DVC  
+
+<b>Tools & Technologies:</b> ☁️ AWS, 🐳 Docker, ⚓ Kubernetes, 🔔 Grafana, 🔍 Splunk, 🛡️ YARA, 📊 Power BI, 📈 Tableau
+
 
 
 
