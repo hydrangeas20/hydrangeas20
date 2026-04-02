@@ -6,7 +6,7 @@ If you're interested in discussing data, ML systems, security, or software engin
 
 <b>Languages & Frameworks:</b> 🐍 Python, ☕ Java, 💻 JavaScript, ⚛️ React, 🌐 Node.js, 📦 Django, 🔗 REST APIs  
 
-<b>Big Data & ML:</b> 🌪️ Airflow, 🗣️ Kafka, 🧩 Spark, 🚀 Flink, 📊 Databricks, 📂 Hive, 🗄️ Cassandra, 🧠 TensorFlow, 🔍 PyTorch  
+<b>Big Data & ML:</b> 🌪️ Airflow, 🗣️ Kafka, 🧩 Spark, 🚀 Flink, 📊 Databricks, ❄️ Snowflake, 📂 Hive, 🗄️ Cassandra, 🧠 TensorFlow, 🔍 PyTorch, 💠 dbt
 
 <b>MLOps & Experiment Tracking:</b> 📈 MLflow, 🐶 DagsHub, 🧾 DVC  
 
