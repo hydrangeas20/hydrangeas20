@@ -13,18 +13,7 @@ If you're interested in discussing data, ML systems, security, or software engin
 <b>Tools & Technologies:</b> ☁️ AWS, 🐳 Docker, ⚓ Kubernetes, 🔔 Grafana, 🔍 Splunk, 🛡️ YARA, 📊 Power BI, 📈 Tableau
 
 
-
-
-
-I’m passionate about learning new things. Here are the categories where I’ve created some exciting projects: 
-
-<img src="https://github.com/user-attachments/assets/fea17e16-56ae-4b1b-8344-517e771383b7" width="700px">
-
-
-
-
-
-
+I’m passionate about learning new things. Here are the categories where I’ve created some exciting projects. 
 Each project highlights my passion for solving complex problems and leveraging technology to drive impactful results. Explore my public repositories to see how I’ve applied my skills across various domains.
 
 
