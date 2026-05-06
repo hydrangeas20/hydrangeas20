@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I'm Hamda! I’m passionate about data science, software engineering, and cybersecurity. I’ve built projects such as reproducible ML pipelines (DVC + MLflow), machine learning-based fraud detection, and a Document Intelligence RAG system with performance optimization. My skills span machine learning, data engineering, and software engineering, supported by AWS certifications. I enjoy solving complex problems and building reliable systems end-to-end.
+I'm Hamda! I’m passionate about data science, software engineering, ai safety/alignment and cybersecurity. I’ve built projects such as reproducible ML pipelines (DVC + MLflow), machine learning-based fraud detection, and a Document Intelligence RAG system with performance optimization. My skills span machine learning, data engineering, and software engineering, supported by AWS certifications. I enjoy solving complex problems and building reliable systems end-to-end.
 
 If you're interested in discussing data, ML systems, security, or software engineering, I’d love to connect and share ideas!
 
