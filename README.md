@@ -6,6 +6,7 @@ I'm the founder of [Plum AI Labs](https://github.com/Plum-AI-Labs), where this r
 
 ## What I work on
 
+- **Platform engineering & cloud infrastructure** — building production-inspired developer platforms, distributed systems, cloud-native infrastructure, CI/CD, observability, and build orchestration with Go.
 - **Fine-tuning attack resistance & safety evaluation** — does alignment hold up under adversarial fine-tuning, and do our evaluations actually measure what we think they measure?
 - **Mechanistic interpretability** — logit lens, activation patching, sparse autoencoders on transformers built from scratch
 - **Scaling laws & GPU systems** — recovering empirical scaling relationships, benchmarking `torch.compile` and Triton kernels against eager PyTorch
