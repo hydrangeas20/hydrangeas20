@@ -15,6 +15,7 @@ I'm the founder of [Plum AI Labs](https://github.com/Plum-AI-Labs), where this r
 
 | Project | What it does |
 |---|---|
+| [Engineering at Scale](https://github.com/hydrangeas20/engineering-at-scale) | Production-inspired distributed build orchestration platform built in Go, exploring platform engineering, distributed systems, CI/CD, cloud-native infrastructure, and observability through architecture-first development. |
 | [SafetyLens](https://github.com/hydrangeas20/safetylens) | Measures divergence between eval-framed and deployment-framed model behaviour across model scale |
 | [AudioGuard](https://github.com/hydrangeas20/audioguard) | Adversarial robustness evaluation for audio classifiers — FGSM, PGD, adversarial training |
 | [JAX Interpretability](https://github.com/hydrangeas20/jax-interpretability) | Mechanistic interpretability on a transformer built from scratch — logit lens, activation patching, SAEs |
